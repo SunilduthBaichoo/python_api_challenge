@@ -9,6 +9,28 @@ Module 6 Challenge for weather analysis and accordingly vacation planning
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Map2
 
 ![alt text](Map_plot_2.png)
