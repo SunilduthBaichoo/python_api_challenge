@@ -6,7 +6,6 @@ Module 6 Challenge for weather analysis and accordingly vacation planning
 
 ### Map1
 
-![Map_plot_1 Screen shot](image.png)
 
 
 
@@ -21,6 +20,22 @@ Module 6 Challenge for weather analysis and accordingly vacation planning
 
 
 
+
+![city_map](image-2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+![city_map.png](image.png)
 
 
 
@@ -28,4 +43,18 @@ Module 6 Challenge for weather analysis and accordingly vacation planning
 
 ### Map2
 
-![Map_plot_2 Screen shot](image-1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![city_hotel_map](image-1.png)
