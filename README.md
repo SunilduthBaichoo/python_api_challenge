@@ -46,3 +46,6 @@ The maps were therefore saved as city_map.png and city_hotel_map.png and display
 
 
 ![city_hotel_map](image-1.png)
+
+
+## The notebook showing the interactive maps can be viewed from [here](https://nbviewer.org/github/SunilduthBaichoo/python_api_challenge/blob/main/VacationPy.ipynb)
